@@ -27,6 +27,7 @@ body{
 .header img{
     height: 30%;
     margin-top: 25px;
+    cursor: pointer;
 }
 
 .mockups{
@@ -72,6 +73,8 @@ body{
     background-color: white;
     box-shadow: 10px 12px 12px 11px rgba(23, 23, 23, 0.25);
     margin-top: 10px;
+    outline: none;
+    cursor: pointer;
 }
 
 .info button:hover{
@@ -90,6 +93,7 @@ body{
 .footer img{
     width: 32px;
     height: 32px;
+    cursor: pointer;
 }
 
 @media screen and (max-width: 768px) {
